@@ -14,8 +14,8 @@ type Device = {
 
 const APP_LABELS: Record<string, string> = {
   "cn.tydic.ethiopay": "TeleBirr",
-  "prod.cbe.birr": "CBE Birr",
-  "com.combanketh.mobilebanking": "ComBank",
+  "prod.cbe.birr": "CBEBirr Plus",
+  "com.combanketh.mobilebanking": "CBE Birr",
 };
 
 const ALIAS_OPTIONS = [
